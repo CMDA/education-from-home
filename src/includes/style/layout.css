@@ -17,8 +17,8 @@ html {
 
 .header {
     flex:none;
-    color: #FFF;
-    background-color: var(--brand-color);
+    color: #000;
+    background-color: var(--secondary);
 }
 .header a {
     color: inherit;

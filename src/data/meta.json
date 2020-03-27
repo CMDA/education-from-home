@@ -1,12 +1,12 @@
 {
-    "title": "Emergency Site",
+    "title": "Education From Home",
     "url": "https://emergency-site.dev",
     "description": "A boilerplate for emergency information websites.",
     "lang": "en",
     "dateFormat": "dd LLLL yyyy",
-    "primaryColor": "#FF0000",
+    "primaryColor": "#000",
     "contact": {
-        "email": "information@emergency.org",
-        "telephone": "+01 234 567 890"
+        "email": "d.de.vries4@hva.nl",
+        "corona": "https://www.hva.nl/praktisch/algemeen/hva-breed/communicatie/corona-informatie/updates-coronavirus/updates-coronavirus.html"
     }
 }

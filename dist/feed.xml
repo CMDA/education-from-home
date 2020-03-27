@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Emergency Site</title>
+    <title>Education From Home</title>
     <subtitle>A boilerplate for emergency information websites.</subtitle>
     <link href="/feed.xml" rel="self" type="application/atom+xml" />
     <link href="" rel="alternate" type="text/html"/>
@@ -9,34 +9,55 @@
     
     <id>https://emergency-site.dev/</id>
         <entry>
-            <title>Crisis Information Example Post</title>
-            <link href="https://emergency-site.dev/posts/2020-03-22-example-post/"/>
+            <title>Online lesgeven</title>
+            <link href="https://emergency-site.dev/posts/online-lesgeven/"/>
             <updated>2020-03-22T15:00:00+01:00</updated>
-            <id>https://emergency-site.dev/posts/2020-03-22-example-post/</id>
+            <id>https://emergency-site.dev/posts/online-lesgeven/</id>
             <content type="html"><![CDATA[
-                <p>Since the first U.S. case of the coronavirus was identified in Washington state on Jan. 21, health officials have identified thousands of cases across the United States. By March 17, the virus had expanded its presence from several isolated clusters in Washington, New York and California to all 50 states and the District of Columbia. To date, there have been over <a href="https://coronavirus.jhu.edu/map.html">120 deaths</a> across the country.</p>
-<h2 id="social-distancing">Social Distancing <a class="anchor" href="#social-distancing">#</a></h2>
-<p>Social distancing is widely seen as the best available means to “flatten the curve of the pandemic,” a phrase that epidemiologists use to describe slowing the spread of infection. This approach can save lives by keeping local health care systems from being overwhelmed.</p>
-<p><img src="https://emergency-site.dev/static/images/uploads/chart.jpg" alt="a chart of covid-19 cases"></p>
-<p>In response to mounting cases, states have begun closing schools, banning large gatherings and urging people to stay home when possible. On Monday, the white house announced <a href="https://www.whitehouse.gov/briefings-statements/coronavirus-guidelines-america/">new guidelines</a> recommending that Americans avoid gathering in groups of more than 10 people, discretionary travel and going out to eat.</p>
-<h3 id="countermeasures">Countermeasures <a class="anchor" href="#countermeasures">#</a></h3>
-<p>To avoid spreading the disease, the Centers for Disease Control and Prevention also recommends basic precautions such as hand-washing and cleaning frequently touched surfaces every day.</p>
-<ul>
-<li>Wash your hands regularly for 20 seconds, with soap and water or alcohol-based hand sanitizer</li>
-<li>Cover your nose and mouth with a disposable tissue or flexed elbow when you cough or sneeze</li>
-<li>Avoid close contact (1 meter or 3 feet) with people who are unwell</li>
-<li>Stay home and self-isolate from others in the household if you feel unwell</li>
-</ul>
-<p>Globally, the respiratory disease has spread to dozens of countries and has killed several thousand people since it was first reported in Wuhan, China, in December.</p>
-<p>Warnings issued by the CDC recommend avoiding nonessential travel to dozens of countries with outbreaks of COVID-19, including China, Iran, South Korea and much of Europe. The U.S. government has banned travel from Europe, although the ban makes exceptions, including for U.S. citizens and legal permanent residents.</p>
-
+                
             ]]></content>
         </entry>
         <entry>
-            <title>About this: How to use this template</title>
-            <link href="https://emergency-site.dev/posts/2020-03-19-about-this-template/"/>
+            <title>Mondelingen afnemen</title>
+            <link href="https://emergency-site.dev/posts/mondelingen-afnemen/"/>
+            <updated>2020-03-22T15:00:00+01:00</updated>
+            <id>https://emergency-site.dev/posts/mondelingen-afnemen/</id>
+            <content type="html"><![CDATA[
+                
+            ]]></content>
+        </entry>
+        <entry>
+            <title>Meeting tools</title>
+            <link href="https://emergency-site.dev/posts/meeting-tools/"/>
+            <updated>2020-03-22T15:00:00+01:00</updated>
+            <id>https://emergency-site.dev/posts/meeting-tools/</id>
+            <content type="html"><![CDATA[
+                
+            ]]></content>
+        </entry>
+        <entry>
+            <title>Pagina&#39;s van de HvA</title>
+            <link href="https://emergency-site.dev/posts/hva-bronnen/"/>
+            <updated>2020-03-22T15:00:00+01:00</updated>
+            <id>https://emergency-site.dev/posts/hva-bronnen/</id>
+            <content type="html"><![CDATA[
+                
+            ]]></content>
+        </entry>
+        <entry>
+            <title>Brightspace features</title>
+            <link href="https://emergency-site.dev/posts/brightspace-features/"/>
+            <updated>2020-03-22T15:00:00+01:00</updated>
+            <id>https://emergency-site.dev/posts/brightspace-features/</id>
+            <content type="html"><![CDATA[
+                
+            ]]></content>
+        </entry>
+        <entry>
+            <title>Werken vanuit huis</title>
+            <link href="https://emergency-site.dev/posts/werken-vanuit-huis/"/>
             <updated>2020-03-19T17:00:00+01:00</updated>
-            <id>https://emergency-site.dev/posts/2020-03-19-about-this-template/</id>
+            <id>https://emergency-site.dev/posts/werken-vanuit-huis/</id>
             <content type="html"><![CDATA[
                 <p>In case of emergency, many organizations need a quick way to publish critical information. Existing CMS websites are often unable to handle sudden spikes in traffic, and local infrastructure might be damaged, leaving people with poor mobile connections.</p>
 <p>This project aims to enable people to quickly publish a simple website that can withstand large amounts of traffic and will work in extreme conditions. It is built on the <a href="https://en.wikipedia.org/wiki/Rule_of_least_power">rule of least power</a>, using simple technologies for maximum resilience.</p>

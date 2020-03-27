@@ -2,12 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://emergency-site.dev/posts/2020-03-19-about-this-template/</loc>
+    <loc>https://emergency-site.dev/posts/werken-vanuit-huis/</loc>
     <lastmod>2020-03-19</lastmod>
   </url>
   
   <url>
-    <loc>https://emergency-site.dev/posts/2020-03-22-example-post/</loc>
+    <loc>https://emergency-site.dev/posts/brightspace-features/</loc>
+    <lastmod>2020-03-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emergency-site.dev/posts/hva-bronnen/</loc>
+    <lastmod>2020-03-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emergency-site.dev/posts/meeting-tools/</loc>
+    <lastmod>2020-03-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emergency-site.dev/posts/mondelingen-afnemen/</loc>
+    <lastmod>2020-03-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emergency-site.dev/posts/online-lesgeven/</loc>
     <lastmod>2020-03-22</lastmod>
   </url>
   

@@ -36,15 +36,39 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "index.html",
-    "revision": "78ade0c53d366f704ee8f0f8c351a02d"
+    "revision": "438a6de1069016a5221417e50adf4596"
   },
   {
-    "url": "posts/2020-03-19-about-this-template/index.html",
-    "revision": "eb96cf4f1cf4d9d75c8811066ee4ccbb"
+    "url": "posts/brightspace-features copy/index.html",
+    "revision": "b7b586fbd3b0d311e546d38964c63057"
   },
   {
-    "url": "posts/2020-03-22-example-post/index.html",
-    "revision": "da6b386cf39dfe619087badd7d467515"
+    "url": "posts/brightspace-features/index.html",
+    "revision": "4d385f7d57b0c863d814052aaf0c646b"
+  },
+  {
+    "url": "posts/hva-bronnen copy/index.html",
+    "revision": "b2714c3e537fec57bdbfd8420eff69ef"
+  },
+  {
+    "url": "posts/hva-bronnen/index.html",
+    "revision": "584564f9476ece73b12242b2e4e6fd9f"
+  },
+  {
+    "url": "posts/meeting-tools/index.html",
+    "revision": "1174ace9388e313d171b25ac1f53ef2d"
+  },
+  {
+    "url": "posts/mondelingen-afnemen/index.html",
+    "revision": "21b8499d648b95f89c8e9168cd15e5d3"
+  },
+  {
+    "url": "posts/online-lesgeven/index.html",
+    "revision": "daaba9c86203d0a33e22e2fd1353a052"
+  },
+  {
+    "url": "posts/werken-vanuit-huis/index.html",
+    "revision": "4295869664a9f5e944e26c8a9c3e0d29"
   },
   {
     "url": "static/scripts/offline.js",

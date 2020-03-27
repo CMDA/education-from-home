@@ -1,0 +1,37 @@
+html {
+    overflow-y: scroll;
+}
+
+.site {
+    display:flex;
+    flex-direction: column;
+    min-height: 100%;
+    min-height: 100vh;
+}
+
+.header,
+.main,
+.footer {
+    padding: var(--spacing);
+}
+
+.header {
+    flex:none;
+    color: #FFF;
+    background-color: var(--brand-color);
+}
+.header a {
+    color: inherit;
+}
+.main {
+    flex: 1 0 auto;
+}
+
+.footer {
+    flex:none;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items:flex-end;
+    background-color: #E4E4E4;
+}

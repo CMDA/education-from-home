@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://emergency-site.dev/posts/2020-03-19-about-this-template/</loc>
+    <lastmod>2020-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emergency-site.dev/posts/2020-03-22-example-post/</loc>
+    <lastmod>2020-03-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emergency-site.dev/</loc>
+    <lastmod>2020-03-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emergency-site.dev/site.webmanifest</loc>
+    <lastmod>2020-03-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emergency-site.dev/static/styles/style.css</loc>
+    <lastmod>2020-03-24</lastmod>
+  </url>
+</urlset>

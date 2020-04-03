@@ -1,8 +1,8 @@
 {
-    "title": "Education From Home",
+    "title": "Education from home",
     "url": "https://emergency-site.dev",
-    "description": "A boilerplate for emergency information websites.",
-    "lang": "en",
+    "description": "Education from Home information page",
+    "lang": "nl",
     "dateFormat": "dd LLLL yyyy",
     "primaryColor": "#000",
     "contact": {

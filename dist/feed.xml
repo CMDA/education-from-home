@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Education From Home</title>
-    <subtitle>A boilerplate for emergency information websites.</subtitle>
+    <title>Education from home</title>
+    <subtitle>Education from Home information page</subtitle>
     <link href="/feed.xml" rel="self" type="application/atom+xml" />
     <link href="" rel="alternate" type="text/html"/>
     

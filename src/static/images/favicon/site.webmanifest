@@ -1,9 +1,6 @@
 {
-    "lang": "nl",
-    "dir": "ltr",
-    "name": "Education from home",
-    "short_name": "Education from home",
-    "description": "Education from Home information page",
+    "name": "Education from Home",
+    "short_name": "Education from Home",
     "icons": [
         {
             "src": "/static/images/favicon/android-chrome-192x192.png",
@@ -16,9 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#1a1a1a",
-    "background_color": "#FFFFFF",
-    "start_url": "/index.html",
-    "display": "minimal-ui",
-    "orientation": "natural"
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
 }

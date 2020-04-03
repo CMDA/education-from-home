@@ -36,7 +36,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "index.html",
-    "revision": "8bdb191a5941685cd880a48c0092aecd"
+    "revision": "6271f5409009b58856f219f584b86bcc"
   },
   {
     "url": "posts/brightspace-features copy/index.html",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/brightspace-features/index.html",
-    "revision": "f38befc66377e8c3b3df945c73637b28"
+    "revision": "544607ce163b705f68929140287658aa"
   },
   {
     "url": "posts/corona-informate/index.html",
@@ -56,15 +56,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/corona-informatie/index.html",
-    "revision": "804289fb63b488701c4ec15ec47be35c"
+    "revision": "b1e767ba7610aeb5f5893e2ba850df8d"
   },
   {
     "url": "posts/digitaal-communiceren/index.html",
-    "revision": "bc52a7ac2ee2d6ee6c0be37514b6c13f"
+    "revision": "a7d1a87ee5891d3ade8da3ce35bdea6c"
   },
   {
     "url": "posts/digitaal-plezier/index.html",
-    "revision": "e5eb3ea8bbda332befa605e2beead1f6"
+    "revision": "393ff0bdff32ca7bf83de62e904a5d00"
   },
   {
     "url": "posts/hva-bronnen/index.html",
@@ -76,11 +76,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/meeting-tools/index.html",
-    "revision": "c28bb88783e3730c3787e799aa8ae2fe"
+    "revision": "a2efbd30e52ddf109a1ca5bc7ef192e1"
   },
   {
     "url": "posts/mondelingen-afnemen/index.html",
-    "revision": "64c041df3e87434f7da1c510ce567551"
+    "revision": "e31664024cab751e798997c0ab8b0f48"
   },
   {
     "url": "posts/online-coaching copy/index.html",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/online-coaching/index.html",
-    "revision": "b0d682cfb425696f167b1bca10609090"
+    "revision": "f2ef6796835b3e3fd4a145c35e76aa6e"
   },
   {
     "url": "posts/online-lesgeven copy/index.html",
@@ -96,19 +96,19 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/online-lesgeven/index.html",
-    "revision": "86801cafe420c0f149750d5c46c8411e"
+    "revision": "f34f6e56acc3cdbf8f0a9035d76c4bb5"
   },
   {
     "url": "posts/vervanging-toetsen/index.html",
-    "revision": "ea66f044852b09a460a4527c28c69782"
+    "revision": "02444b31dc4db777bef59319c8d53bee"
   },
   {
     "url": "posts/videos-opnemen/index.html",
-    "revision": "59cf94ac366226b12c29501c595ffc92"
+    "revision": "02773eb0e0be718a6f543896d5c122db"
   },
   {
     "url": "posts/werken-vanuit-huis/index.html",
-    "revision": "3a04de6c6e91c77de6e0c775a5bd94d4"
+    "revision": "502e5e52741f62d414cae90b6af467f9"
   },
   {
     "url": "static/scripts/offline.js",

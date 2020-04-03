@@ -2,7 +2,9 @@
 title: Meeting tools
 date: 2020-03-21
 ---
-[What You Should Know About Online Tools During the COVID-19 Crisis](https://www.eff.org/deeplinks/2020/03/what-you-should-know-about-online-tools-during-covid-19-crisis)
+
+* [What You Should Know About Online Tools During the COVID-19 Crisis](https://www.eff.org/deeplinks/2020/03/what-you-should-know-about-online-tools-during-covid-19-crisis)
+* [Hoe toegankelijk zijn videoconferentie tools](https://www.accessibility.nl/nieuws/2020/03/hoe-toegankelijk-zijn-videoconferentie-tools)
 
 ## Zoom
 

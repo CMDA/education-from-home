@@ -1,6 +1,6 @@
 ---
 title: Digitaal Plezier
-date: 2020-04-01
+date: 2020-04-24
 ---
 
 ## VirusVrijMibo
@@ -12,6 +12,23 @@ Elke vrijdagmiddag organiseren we bij CMD de #VirusVrijMibo. We komen bijeen in 
 Met de snap camera kun je snapchat filters over je webcam gebruiken.
 
 [Snap Camera](https://snapcamera.snapchat.com/)
+
+### Concertgebouw
+Het concertgebeuw heeft haar voorstelling in de vorm van livestreams op haar website gezet.
+
+[Concertgebouw Livestream](https://www.concertgebouw.nl/)
+
+### Wijzer.amsterdam
+
+Een site van de gemeente amsterdam en de OBA met allemaal dingen die je thuis (bijvoorbeeld met je kinderen) kan doen.
+
+[wijzer.amsterdam](https://wijzer.amsterdam/)
+
+### Samen kijken of luisteren
+
+* Met [Auxparty](https://yourstack.com/products/auxparty) kun je samen muziek luisteren, alsof je met z'n allen in de club staat.
+* Met [Netflix Party](https://www.netflixparty.com/) kun je samen in sync netflix series kijken
+
 
 ### Slack
 In de CMDA slack zijn er een aantal gezellige channels die je kunt joinen.

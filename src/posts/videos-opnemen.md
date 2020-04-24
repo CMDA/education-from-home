@@ -1,6 +1,6 @@
 ---
 title: Screencasts opnemen
-date: 2020-04-01
+date: 2020-04-22
 ---
 
 ## Quicktime screen recorden
@@ -18,3 +18,11 @@ Een betere optie is waarschijnlijk Loom (dus niet Zoom). Je kan zo makkelijk je 
 Hier een voorbeeld:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/35c1f9ffd8c64e01b6b1b150f1809473" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+Fransiska heeft een CMD Snapchat filter gemaakt die je met de Snap Camera kunt gebruiken. Die kun je hier downloaden:
+
+[CMD Snapchat filter](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=d3ceebf029dd41b3b47beea1b48f163d&metadata=01)
+
+En het resultaat:
+
+<div style="position: relative; padding-bottom: 62.06896551724138%; height: 0;"><iframe src="https://www.loom.com/embed/72b162c2595a40e0ba46271ce378fb8f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

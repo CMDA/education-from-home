@@ -1,8 +1,11 @@
 ---
 title: Meeting tools
-date: 2020-03-21
+date: 2020-04-24
 ---
 [What You Should Know About Online Tools During the COVID-19 Crisis](https://www.eff.org/deeplinks/2020/03/what-you-should-know-about-online-tools-during-covid-19-crisis)
+
+## Richtlijnen HvA
+> De OC heeft gevraagd of we een richtlijn willen opstellen voor de omgang met digitale communicatiekanalen. De enige richtlijn die we hebben geformuleerd is: Werk altijd vanuit BrightSpace en gebruik zoveel als mogelijk Virtual Classroom. In BrightSpace kun je eventueel aangeven welke andere kanalen je graag gebruikt voor bepaalde momenten. Wij beseffen dat docenten graag datgene gebruiken waar ze bij voorkeur de hoogste kwaliteit mee denken te bereiken. Wel geven we het volgende mee: Besef terdege dat bepaalde programma’s gebruik maken van jullie data en dat servers soms in de VS zijn gesitueerd. Naast BrightSpace kun je ook goed gebruik maken Skype en binnenkort van Teams (Microsoft). Zoom, Discord zouden we niet per se gebruiken voor toetsing. Mocht je een poetsgesprek opnemen, zorg er dan ook voor dat dat gesprek na verloop van tijd verwijderd wordt.
 
 ## Zoom
 
